@@ -9,6 +9,8 @@ Cyber security
 - https://old.reddit.com/r/cybersecurity/comments/o7j3g9/feel_free_to_use_this_endpoint_security_checklist/
 - https://old.reddit.com/r/cybersecurity/comments/p9fo4d/my_thoughts_on_a_decade_of_cyber_security_10/
 - https://news.ycombinator.com/item?id=30902426 The Personal Security Checklist (github.com/lissy93)
+- https://www.goldfiglabs.com/guide/personal-infosec-security-checklist/
+- https://www.goldfiglabs.com/guide/devops-security-checklist/
 
 ## Other
 BSI warns against using Kaspersky (German)
