@@ -11,6 +11,7 @@ Cyber security
 - https://news.ycombinator.com/item?id=30902426 The Personal Security Checklist (github.com/lissy93)
 - https://www.goldfiglabs.com/guide/personal-infosec-security-checklist/
 - https://www.goldfiglabs.com/guide/devops-security-checklist/
+- https://news.ycombinator.com/item?id=34388866 Ask HN: How do you trust that your personal machine is not compromised?
 
 ## Other
 BSI warns against using Kaspersky (German)
