@@ -13,6 +13,9 @@ Cyber security
 - https://www.goldfiglabs.com/guide/devops-security-checklist/
 - https://news.ycombinator.com/item?id=34388866 Ask HN: How do you trust that your personal machine is not compromised?
 
+## Domain security
+- https://www.internetx.com/en/domain-security/ Domain security on four layers
+
 ## Other
 BSI warns against using Kaspersky (German)
 - https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2022/220315_Kaspersky-Warnung.html
