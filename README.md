@@ -16,6 +16,8 @@ Cyber security
 ## Domain security
 - https://www.internetx.com/en/domain-security/ Domain security on four layers
 - https://www.cloudflare.com/learning/dns/dns-records/protect-domains-without-email/
+- https://www.gov.uk/government/publications/email-security-standards
+- https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 
 ## Other
 BSI warns against using Kaspersky (German)
